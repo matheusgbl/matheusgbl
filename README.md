@@ -2,7 +2,7 @@
 
 ### Hello, stranger !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Me chamo Matheus, sou estudante de desenvolvimento de software pela Trybe. 💚 </br>
+Sou estudante de desenvolvimento de software pela Trybe. 💚 </br>
 Atualmente focado em desenvolvimento Front End, utilizando React com Typescript. 💻
 
 <a href="https://www.linkedin.com/in/matheusgbl/" target="_blank" rel="noopener noreferrer">
