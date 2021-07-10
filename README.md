@@ -5,6 +5,8 @@
 Sou estudante de desenvolvimento de software pela Trybe. 💚 </br>
 Atualmente focado em desenvolvimento Front End, utilizando React com Typescript. 💻
 
+Caso queira entrar em contato, por gentileza, me envie um email: matheusluiz.barbosa@outlook.com
+
 <a href="https://www.linkedin.com/in/matheusgbl/" target="_blank" rel="noopener noreferrer">
   <img height="20" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png">
 </a>
