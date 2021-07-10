@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/55060810/120938050-5cb45800-c6e7-11eb-984d-b0c468254219.png "Header")
 
-### Hello, stranger !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Sou estudante de desenvolvimento de software pela Trybe. 💚 </br>
 Atualmente focado em desenvolvimento Front End, utilizando React com Typescript. 💻
